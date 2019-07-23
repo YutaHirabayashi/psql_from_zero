@@ -1,0 +1,1 @@
+ALTER TABLE shohin DROP shohin_mei_kana;
