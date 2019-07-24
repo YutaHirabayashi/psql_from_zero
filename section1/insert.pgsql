@@ -9,4 +9,8 @@ INSERT INTO shohin VALUES(
         '0003', 'カッターシャツ', '衣服', 4000, 2800, NULL
 );
 
+INSERT INTO shohin VALUES(
+    '0004', 'フォーク', 'キッチン用品', 500, NULL, '2009-09-20'
+);
+
 COMMIT;
