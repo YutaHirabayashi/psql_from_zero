@@ -3,7 +3,7 @@
 
 # dbms起動方法
 1. cd ~/Documents/db/
-2. postgresql -D ./postgres/
+2. postgres -D ./postgres/
 
 # 接続方法
 1. psql -d [dbname]
