@@ -1,3 +1,3 @@
 
 DELETE FROM shohinCopy
-WHERE shohin_bunrui>=4000
+WHERE hanbai_tanka>=4000
